@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<concesionario>
+<coches>
+<coche>
+<matricula>A1425</matricula>
+<marca>honda</marca>
+<precio>1500</precio>
+</coche>
+
+<coche>
+<matricula>A5525</matricula>
+<marca>suzuki</marca>
+<precio>25800</precio>
+</coche>
+
+</coches>
+</concesionario>
